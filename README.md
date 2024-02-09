@@ -1,5 +1,5 @@
 # Reseller
-Lets spread Nevermore filtration media and filter solutions together!
+Nevermore carbon began with users getting the _wrong carbon_ type (for retaining printer VOCs), the _3d printer oxidizing/damaging_ carbon type, or the _inactive-charcoal-pellets-branded-as-activated-carbon_ type. Clearly, something needed to be done -so we set out to find the most suitable carbon in the world for the 3d printing use case. We found it - lets spread Nevermore filtration media and filter solutions together!
 
 Nevermore carbon and filtration media is powered by Linneo Components, distributing worldwide from Vigo, Spain. Please enquire on **sales@linneo.tech**
 
