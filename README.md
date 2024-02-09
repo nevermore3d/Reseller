@@ -1,7 +1,7 @@
 # Reseller
 Lets spread Nevermore filtration media and filter solutions together!
 
-Nevermore carbon and filtration media is powered by Linneo Components. Please enquire on **sales@linneo.tech**
+Nevermore carbon and filtration media is powered by Linneo Components, distributing by air and sea from Vigo, Spain. Please enquire on **sales@linneo.tech**
 
 # Nevermore Carbon
 
@@ -25,3 +25,9 @@ Nevermore carbon and filtration media is powered by Linneo Components. Please en
 * Pre-prepared 50/50 mix of Nevermore Carbon and Nevermore Scorch; a less-hassle, best-of-both-worlds printer filtration
 * Combining the long-life och stellar adsobtion capacity of activated carbon with Nevermore Scorch performance in hot surroundings.
 * Ideal for most users with enclosed 3d printers printing ABS/ASA/PETG/PC in chamber temps of 50C +-10C.
+
+# HEPA
+
+* Nevermore Hepa filters.
+
+![Nevermore Filtration Media](filtration_media.png)
