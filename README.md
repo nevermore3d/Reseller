@@ -15,7 +15,7 @@ Nevermore carbon and filtration media is powered by Linneo Components, distribut
 # Nevermore Scorch
 
 * Zeolite-based, highly microporous adsorption medium, enhanced with potassium permanganate (KMnO4).
-* Chimically transform printer VOC toxins like styrene – a major VOC in ABS filaments – into harmless potassium benzoate (food additive).
+* Chemically transform printer VOC toxins like styrene – a major VOC in ABS and ASA filaments – into harmless potassium benzoate (food additive).
 * The process is not harmed by high chamber temps, but accelerated, making Nevermore Scorch ideal for heated 3D printer chambers!
 * Colour changes from bright purple to a dullish gray as its being spent, giving a visual indication of when its time to swap filter media!
 * Available in Regular (750ml, 0.66kg) and XL (2300ml, 2kg)
