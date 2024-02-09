@@ -1,7 +1,7 @@
 # Reseller
 Lets spread Nevermore filtration media and filter solutions together!
 
-Nevermore carbon and filtration media is powered by Linneo Components, distributing by air and sea from Vigo, Spain. Please enquire on **sales@linneo.tech**
+Nevermore carbon and filtration media is powered by Linneo Components, distributing worldwide from Vigo, Spain. Please enquire on **sales@linneo.tech**
 
 # Nevermore Carbon
 
@@ -10,7 +10,7 @@ Nevermore carbon and filtration media is powered by Linneo Components, distribut
 * Market-leading surface area (storage capacity) of **1250m2/g**! 
 * Vacuum packed for minimal dust generation during shipping.
 * Vacuum dedusted during the packaging process for immidiate use in 3d printers
-* Available in Regular (750ml) and XL (2300ml)
+* Available in Regular (750ml, 0.33kg) and XL (2300ml, 1kg)
 
 # Nevermore Scorch
 
@@ -18,7 +18,7 @@ Nevermore carbon and filtration media is powered by Linneo Components, distribut
 * Chimically transform printer VOC toxins like styrene – a major VOC in ABS filaments – into harmless potassium benzoate (food additive).
 * The process is not harmed by high chamber temps, but accelerated, making Nevermore Scorch ideal for heated 3D printer chambers!
 * Colour changes from bright purple to a dullish gray as its being spent, giving a visual indication of when its time to swap filter media!
-* Available in Regular (750ml) and XL (2300ml)
+* Available in Regular (750ml, 0.66kg) and XL (2300ml, 2kg)
 
 # Nevermore Mix
 
