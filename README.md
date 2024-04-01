@@ -32,6 +32,8 @@ Nevermore carbon and filtration media is powered by Linneo Components, distribut
 
 ![Nevermore Filtration Media](filtration_media.png)
 
+# Reseller Overview Table
+
 To find your nearest Nevermore vendor, please look at the table below. If you cannot find a vendor in your country, consider checking nearby countries or international shipping options.
 
 | Region  | Country            |                                             |                                              |                                              |                                              |                                              |
