@@ -11,6 +11,8 @@ Nevermore carbon and filtration media is powered by Linneo Components, distribut
 * Vacuum packed for minimal dust generation during shipping.
 * Vacuum dedusted during the packaging process for immidiate use in 3d printers
 * Available in Regular (750ml, 0.33kg) and XL (2300ml, 1kg)
+![Nevermore Carbon](Nevermore_vs_Regular_1080.png)
+
 
 # Nevermore Scorch
 
