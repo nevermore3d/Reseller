@@ -52,3 +52,80 @@ To find your nearest Nevermore vendor, please look at the table below. If you ca
 | OCEANIA | **Australia**      | [Unique Prints](https://uniqueprints.shop/) | [Phaser FPV](https://www.phaserfpv.com.au/)  | [Dremc](https://store.dremc.com.au/)         |                                              |                                              |
 | ASIA/ME | **Israel**         | [Rav Meimad](https://en.ravmeimad.shop/)    |                                              |                                              |                                              |                                              |
 
+
+
+## User Guide On Carbon Selection when Nevermore is unavailable
+
+**Picking the Right Carbon for Your 3D Printer**
+
+Choosing the optimal activated carbon for a specific task requires careful
+consideration of several key factors, including surface area, CTC/benzene
+efficiency, porosity, and pH. These properties play a crucial role in determining the
+effectiveness and efficiency of the activated carbon in adsorbing target
+contaminants!
+
+**Surface area** is perhaps the most critical factor, as it directly influences the
+adsorption capacity of the activated carbon. A higher surface area allows for more
+adsorption sites, enabling the activated carbon to capture and retain a greater
+amount of contaminants. Activated carbons typically range from 500 to 1250 m²/g,
+and a carbon of 1200 m²/g would have twice the capture capacity compared to a
+600 m²/g carbon. A good carbon usually has at least 1000 m²/g.
+Be sure you're not getting scammed by buying 25% cheaper carbon that lasts half
+as long!
+
+**CTC** (Carbon Tetrachloride) **efficiency** - or even better for 3D printing applications,
+aromatic hydrocarbon efficiency - is another important consideration, as it
+measures the activated carbon's ability to adsorb volatile organic compounds
+created from 3D printing. A higher CTC efficiency indicates a greater proportion of
+micro-pores, which are essential for capturing - and holding on to - small
+contaminants like airstream VOCs. Choosing an activated carbon with a CTC
+efficiency that matches the size of the target contaminants ensures optimal
+adsorption performance. A good carbon usually has at least 60% CTC.
+Be sure you're not getting scammed by buying 25% cheaper carbon that captures
+half as much!
+
+**Porosity** , which refers to the distribution of pore sizes within the activated carbon,
+also plays a significant role. Activated carbons, depending on quality and carbon
+source, will have different ratios of micro-pores (<2 nm), meso-pores (2-50 nm),
+and macro-pores (>50 nm). For general use, an even mix might be preferred, as
+they can effectively capture a broad spectrum of contaminants while allowing for
+efficient mass transfer and regeneration. However, for 3D printing use, a high
+micro- and mesoporosity is ideal to both capture VOCs (<2 nm) and VOC-
+agglomerates (ultra-fine particles, <50 nm), whereas macropores will struggle to
+hold on to VOCs in a hot application like a 3D printer's heated chamber. Good
+carbon types for our application are usually sourced from coconut or anthracite, as
+they are highly microporous, whereas other common carbons, such as bamboo or
+bituminous, usually have a larger percentage of macropores.
+Be sure you're not getting scammed by buying 25% cheaper carbon that releases
+half the VOCs again!
+
+**The pH of your activated carbon** should be considered, especially when dealing
+with pH-sensitive applications or contaminants. Activated carbons with a neutral or
+
+
+slightly alkaline pH are suitable for most applications, while acidic or basic activated
+carbons may be required for specific tasks. In order to capture any VOC type
+generated from any filament, a neutral carbon (capable of binding to both neutral,
+acidic, and alkaline VOCs) is preferred. Some users have also experienced severe
+printer corrosion from using acid-contaminated/treated carbon that, for some
+reason, got released with the heating cycles.
+Be sure to buy a 3D printer-safe carbon that is steam-activated and not acid-
+treated/coated!
+
+**Compare carbons in a jiffy**
+
+As a general comparison number for neutral carbons, try multiplying surface area
+and CTC efficiency (available space * capturing efficiency):
+
+**Carbon A** : 1250 m²/g * 80% CTC would be 1250 * 0.8 = 1000 ( _yes, this is
+Nevermore specs_ )
+
+**Carbon B** : 1000 m²/g * 50% CTC would be 1000 * 0.5 = 500
+
+This means that Carbon A can be expected to be 2x the performance, capturing
+more VOCs for longer.
+
+Be sure to buy Carbon A unless it's twice the price (or if you wish to refill your
+cartridges twice as often - it gets tedious quickly!).
+
+
