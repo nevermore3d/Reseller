@@ -22,7 +22,7 @@ Nevermore carbon and filtration media is powered by Linneo Components, distribut
 * Colour changes from bright purple to a dullish gray as its being spent, giving a visual indication of when its time to swap filter media!
 * Available in Regular (750ml, 0.66kg) and XL (2300ml, 2kg)
 
-# Nevermore Mix
+# Nevermore Boost
 
 * Pre-prepared 50/50 mix of Nevermore Carbon and Nevermore Scorch; a less-hassle, best-of-both-worlds printer filtration
 * Combining the long-life och stellar adsobtion capacity of activated carbon with Nevermore Scorch performance in hot surroundings.
