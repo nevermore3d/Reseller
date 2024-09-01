@@ -9,7 +9,7 @@ Nevermore carbon and filtration media is powered by Linneo Components, distribut
 * Market-leading VOC adsorbtion fine tuned for _aromatic hydrocarbons emitted during 3D printing_ such as styrene, benzaldehyde, toluene, benzene, etc. [**CTC >=80**, benzene adsorbtion capacity up to **0.48g/g**]
 * Market-leading surface area (storage capacity) of **1250m2/g**! 
 * Vacuum packed for minimal dust generation during shipping.
-* Vacuum dedusted during the packaging process for immidiate use in 3d printers
+* Vacuum dedusted during the packaging process for immediate use in 3d printers
 * Available in Regular (750ml, 0.33kg) and XL (2300ml, 1kg)
 ![Nevermore Carbon](Nevermore_vs_Regular_1080.png)
 
